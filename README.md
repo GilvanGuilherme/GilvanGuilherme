@@ -6,7 +6,7 @@
 
   <img src="Dark_Fanhossauro.gif" alt="Fanhossauro Dando O Gás" />
 
-  <div style="display: flex; justify-content: center; column-gap: 30px; flex-wrap: wrap;">
+  <div style="display: flex; justify-content: center; column-gap: 30px; flex-wrap: wrap; margin-top: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
@@ -19,6 +19,5 @@
   </div>
 
 </div>
-
 
 ![Snake animation](https://raw.githubusercontent.com/GilvanGuilherme/github-contribution-grid-snake/output/github-contribution-grid-snake.svg)
