@@ -20,3 +20,5 @@
 
 </div>
 
+![Snake animation](https://github.com/GilvanGuilherme/GilvanGuilherme/blob/output/github-snake.svg)
+
